@@ -26,16 +26,6 @@ This project allows users to explore custom house designs, view property layouts
 
 ---
 
-## 🎥 Project Demo Video
-
-Watch the complete project demo here:  
-
-<a href="C:\Users\HP\Desktop\randoms">
-  <img src="https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge">
-</a>
-
----
-
 ## 🚀 Future Improvements
 
 - Backend Integration
